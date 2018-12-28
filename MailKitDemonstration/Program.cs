@@ -1,5 +1,3 @@
-﻿// This is the code that I want to push to the repo if needed
-
 using System;
 using System.Collections.Generic;
 using System.Linq;
